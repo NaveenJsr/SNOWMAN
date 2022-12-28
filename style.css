@@ -1,0 +1,81 @@
+* {
+  margin: 10% 40%;
+  background: #ac474b;
+  position: fixed;
+  border: 0 solid;
+}
+
+r {
+  border-width: 15 50;
+  border-color: black;
+  left: 10;
+  top: 0;
+}
+
+s {
+  border-width: 12 51;
+  border-color: white;
+  left: 9;
+  top: 30;
+}
+
+v {
+  border-width: 60 60;
+  border-radius: 60px 60px 60px 60px;
+  border-color: white;
+  left: 0;
+  top: 90;
+}
+
+a {
+  border-width: 10 10;
+  border-radius: 10px 10px 10px 10px;
+  border-color: black;
+  left: 30;
+  top: 130;
+}
+
+b {
+  border-width: 10 10;
+  border-radius: 10px 10px 10px 10px;
+  border-color: black;
+  left: 70;
+  top: 130;
+}
+
+t {
+  border-width: 20 50;
+  border-color: black;
+  left: 10;
+  top: 54;
+}
+
+u {
+  border-width: 5 60;
+  border-color: black;
+  left: 0;
+  top: 94;
+}
+
+w {
+  border-width: 15 70;
+  border-color: #ac474b;
+  left: -10;
+  top: 180;
+}
+
+x {
+  border-width: 10 60;
+  border-color: #ffa640;
+  border-radius: 10px;
+  left: 00;
+  top: 185;
+}
+
+y {
+  border-width: 100 100;
+  border-radius: 100px 100px 100px 100px;
+  border-color: white;
+  left: -40;
+  top: 185;
+}
